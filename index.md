@@ -9,6 +9,8 @@
 
 ![My GitHub Profile Picture](https://octodex.github.com/images/yaktocat.png)
 
+### :keyboard: Activity: Adding a code example
+
 ```javascript
 let name = "Shahad";
 console.log("Hello, " + name);
