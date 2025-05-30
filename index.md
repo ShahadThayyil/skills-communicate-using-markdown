@@ -15,3 +15,6 @@
 let name = "Shahad";
 console.log("Hello, " + name);
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
