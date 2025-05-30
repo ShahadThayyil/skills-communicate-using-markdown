@@ -9,4 +9,7 @@
 
 ![My GitHub Profile Picture](https://octodex.github.com/images/yaktocat.png)
 
+```javascript
+let name = "Shahad";
+console.log("Hello, " + name);
 
