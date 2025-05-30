@@ -14,6 +14,8 @@
 ```javascript
 let name = "Shahad";
 console.log("Hello, " + name);
+```
+### :keyboard: Activity: Add a task list
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
